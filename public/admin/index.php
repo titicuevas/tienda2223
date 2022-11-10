@@ -39,7 +39,14 @@ oeoeoeo
         var_dump('Hola');
         <?php endforeach ?>
 </tbody>
+<script src="
 
+
+
+
+
+
+../node_modules/flowbite/dist/flowbite.js"></script>
 </table>
 </body>
 </html>
